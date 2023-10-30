@@ -2,4 +2,7 @@
 Fetching unsplash server images using Async Await API calls
 
 #Integrated Unsplash Images Fetch Webservice
-#In the initial screens laoading images from Constant file path , after tapping each images making an api call to unspalsh server with client and necessery input using Alamofire with Apple's Async Await API Calling Method
+#In the initial screens loading images from Constant file path
+#After tapping each images making moving to new screen using the navigation controller 
+#Then making api call to unspalsh server with client id and necessery input using Alamofire and Async Await.
+#After images has successfully fetched loading them in the UITableView
