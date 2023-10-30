@@ -8,4 +8,4 @@ Fetching unsplash server images using Async Await API calls
 #After images has successfully fetched loading them in the UITableView
 
 Demo Video :
-https://github.com/KarthiRasu-iOS/Concurrency---Async/assets/148844208/89b9746d-3f02-4dad-91ad-f940b673eefe
+https://github.com/KarthiRasu-iOS/Concurrency---Async/assets/148844208/89b9746d-3f02-4dad-91ad-f940b673eefe.mp4
